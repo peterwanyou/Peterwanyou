@@ -1,4 +1,4 @@
-## Bonjourn je suis wanyou peter 👋
+## Bonjour je suis wanyou peter 👋
 
 <!--
 **peterwanyou/Peterwanyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
